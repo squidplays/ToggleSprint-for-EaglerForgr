@@ -1,2 +1,2 @@
-# ToggleSprint-for-EaglerForgr
-Pretty sure only works for fabric but oh well
+# ToggleSprint-for-EaglerForge
+Pretty sure only works for fabric but oh wel
